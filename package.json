@@ -1,6 +1,7 @@
 {
   "name": "pc-monitor",
   "version": "1.0.0",
+  "type": "module",
   "description": "Focus in cpu and memory usage.",
   "main": "index.js",
   "scripts": {
